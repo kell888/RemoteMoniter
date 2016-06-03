@@ -1,0 +1,9 @@
+D:\远程监控\代理类\bin\Debug\SmartKernel.Net.Monitor.dll
+D:\远程监控\代理类\bin\Debug\SmartKernel.Net.Monitor.pdb
+D:\远程监控\代理类\obj\Debug\ResolveAssemblyReference.cache
+D:\远程监控\代理类\obj\Debug\SmartKernel.Net.Monitor.dll
+D:\远程监控\代理类\obj\Debug\SmartKernel.Net.Monitor.pdb
+E:\soft\远程监控\代理类\bin\Debug\代理类.dll
+E:\soft\远程监控\代理类\bin\Debug\代理类.pdb
+E:\soft\远程监控\代理类\obj\Debug\代理类.dll
+E:\soft\远程监控\代理类\obj\Debug\代理类.pdb
